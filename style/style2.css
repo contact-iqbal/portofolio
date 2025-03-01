@@ -1,0 +1,35 @@
+.btn-primary{
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #2a2a2a !important;
+    --bs-btn-border-color: #313131 !important;
+    --bs-btn-hover-color: #eaeaea !important;
+    --bs-btn-hover-bg: #363636 !important;
+    --bs-btn-hover-border-color: #0b0b0b !important;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #080808 !important;
+    --bs-btn-active-border-color: #262626;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #202020;
+    --bs-btn-disabled-border-color: #363636;
+}
+
+.gapper-10 {
+    width: 100%;
+    height: 10vh;
+}
+
+.gapper-5 {
+    height: 5vh;
+}
+.gapper-20 {
+    height: 20vh;
+}
+.gapper-30 {
+    height: 30vh;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+}
