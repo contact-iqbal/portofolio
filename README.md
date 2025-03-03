@@ -1,2 +1,2 @@
 ﻿# portofolio
- [github.com/portofolio](contact-iqbal.github.io/portofolio)
+https://contact-iqbal.github.io/portofolio/
